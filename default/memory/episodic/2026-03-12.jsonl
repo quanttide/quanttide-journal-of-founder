@@ -1,0 +1,18 @@
+{"id": "550e8400-e29b-41d4-a716-446655440001", "title": "容器化需求封装", "description": "构思将日常工作需求封装成容器的方案，类似小型 k8s 或函数集群，可快速自动化工作流程。主要难点是外化思考，舒适的外化能带来更舒适的编码体验。", "tense": "past", "type": "plan"}
+{"id": "550e8400-e29b-41d4-a716-446655440002", "title": "腾讯云博弈记录", "description": "考虑用个人或公司账号记录与腾讯云的博弈经历，作为公司发展历程的一部分。", "tense": "past", "type": "plan"}
+{"id": "550e8400-e29b-41d4-a716-446655440003", "title": "知识工作模块构想", "description": "构思通用知识工作模块，打通飞书知识库和 GitHub 仓库，建立高效工作流。", "tense": "past", "type": "plan"}
+{"id": "550e8400-e29b-41d4-a716-446655440004", "title": "文档驱动代码生成", "description": "探索用文档生成代码，再用代码循环生成文档的思路。通过反复迭代文档-代码来提高效率。", "tense": "past", "type": "evaluation"}
+{"id": "550e8400-e29b-41d4-a716-446655440005", "title": "手机端文档策略调整", "description": "在手机端用 essay 代替 handbook，essay 更适合倾诉和灵感捕捉，handbook 作为团队正式参考文档。", "tense": "past", "type": "decision"}
+{"id": "550e8400-e29b-41d4-a716-446655440006", "title": "bylaws 编写启动", "description": "计划逐步编写 bylaws（规章制度），为团队提供清晰的行为准则和操作示范。", "tense": "future", "type": "plan"}
+{"id": "550e8400-e29b-41d4-a716-446655440007", "title": "飞书 GitHub 工作流", "description": "构思从内部到外部的工作流：在本地下载飞书知识库数据和 GitHub 仓库，半自动化编辑知识库，AI 自动提交 PR。", "tense": "future", "type": "plan"}
+{"id": "550e8400-e29b-41d4-a716-446655440008", "title": "DeepSeek 百炼配置", "description": "偏好 DeepSeek 模型，需去阿里云百炼重新配置参数，探索命令行配置方式。", "tense": "future", "type": "plan"}
+{"id": "550e8400-e29b-41d4-a716-446655440009", "title": "AI 协议迁移", "description": "将 AI 相关协议从云计算标准移至基础设施标准，因为 AI 社区标准已成熟。", "tense": "past", "type": "decision"}
+{"id": "550e8400-e29b-41d4-a716-446655440010", "title": "工作日志价值", "description": "重新认识到工作日志有助于外化个人想法，帮助团队快速了解思考过程。", "tense": "past", "type": "evaluation"}
+{"id": "550e8400-e29b-41d4-a716-446655440011", "title": "工作札记创建计划", "description": "计划尽快创建工作札记板块，缓解工作档案拥挤问题，形成良性知识沉淀路径。", "tense": "future", "type": "plan"}
+{"id": "550e8400-e29b-41d4-a716-446655440012", "title": "RuyiX 合作评估", "description": "RuyiX 的元编程方案利用大模型能力，尝试深度合作，不行则考虑自研替代方案。", "tense": "past", "type": "evaluation"}
+{"id": "550e8400-e29b-41d4-a716-446655440013", "title": "想法整合新体系", "description": "过去吸收的各种想法正在快速整合成新体系，新范式正在脑中形成但尚未落地。", "tense": "present", "type": "evaluation"}
+{"id": "550e8400-e29b-41d4-a716-446655440014", "title": "数字资产新定义", "description": "终极标准是透明公开共识的标准，开放格式的标准才是企业真正的资产。", "tense": "past", "type": "evaluation"}
+{"id": "550e8400-e29b-41d4-a716-446655440015", "title": "开源认知风险", "description": "实践的主要风险是担心成功后面对更多争议，开源容易暴露认知局限。", "tense": "past", "type": "evaluation"}
+{"id": "550e8400-e29b-41d4-a716-446655440016", "title": "AI Native 规则引擎", "description": "AI Native 应用的关键是用各种规则引擎进行意图分类和状态管理。", "tense": "past", "type": "evaluation"}
+{"id": "550e8400-e29b-41d4-a716-446655440017", "title": "语音输入方案", "description": "语音输入是比较重要的基本单元，需要准备一个方案备用。", "tense": "future", "type": "plan"}
+{"id": "550e8400-e29b-41d4-a716-446655440018", "title": "cli-provider-studio 路线", "description": "cli-provider-studio 是正确的路线：先验证 AI 操作 cli 可行，然后前后端分离，最后给人类检查。", "tense": "past", "type": "decision"}
