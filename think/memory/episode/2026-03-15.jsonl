@@ -1,0 +1,4 @@
+{"date": "2026-03-15", "title": "AI分层处理架构", "problem": "AI处理长日志时一股脑用全部算力", "exploration": "提出金字塔架构：底层模型处理脏活，中层归纳关联，高层深度思考", "adjustment": "分层处理更经济高效"}
+{"date": "2026-03-15", "title": "知识卡片与叙事流", "problem": "AI记忆分散在对话历史里，没有结构化", "exploration": "最小单元应该是知识卡片而非概念；时间流是唯一重要的事", "adjustment": "构建可检索关联的知识卡片系统"}
+{"date": "2026-03-15", "title": "人机协作新范式", "problem": "AI定位不清晰", "exploration": "AI当搬砖工，人类主导创造流，System 2约束System 1", "adjustment": "AI擅长控制流，人类擅长创造流"}
+{"date": "2026-03-15", "title": "共同构建外脑", "problem": "13个文档体系过于复杂", "exploration": "让AI维护复杂体系，人只需输入输出", "adjustment": "AI作为系统管理员和维护者"}

@@ -1,0 +1,6 @@
+{"date": "2026-03-13", "title": "默认模式vs正向任务模式", "problem": "碎片化思考缺乏系统分类", "exploration": "区分默认神经网络状态和正向任务网络状态", "adjustment": "AI作为两种模式之间的桥梁"}
+{"date": "2026-03-13", "title": "双轨制日志", "problem": "工作日志放哪里不清晰", "exploration": "默认日志存入一个仓库，正向任务日志存入子workspace", "adjustment": "通过workspace区分，保持数据丰富性同时便于检索"}
+{"date": "2026-03-13", "title": "知识库vs文档", "problem": "知识库和文档的区别不清晰", "exploration": "知识库是AI读的，文档是人读的", "adjustment": "知识库需要数据结构化可校验，文档需要可读性"}
+{"date": "2026-03-13", "title": "自我复现知识库", "problem": "系统能否自我演化", "exploration": "知识库可压缩到易于恢复的程度", "adjustment": "成为可自我迭代的种子"}
+{"date": "2026-03-13", "title": "认知光谱", "problem": "二元对立分类不准确", "exploration": "从完全发散到完全收敛的光谱", "adjustment": "支持平滑切换而非生硬分类"}
+{"date": "2026-03-13", "title": "AI认知外骨骼", "problem": "人类在两种模式切换时外延能力不够", "exploration": "AI外延三种认知模式", "adjustment": "发散时外延记忆和关联，收敛时外延逻辑和执行"}
