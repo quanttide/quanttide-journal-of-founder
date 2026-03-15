@@ -2,13 +2,6 @@
 
 Vibe Coding（直觉编程）的数字化管理系统，记录 AI 辅助编程的工作流程。
 
-## 工作流
-
-```
-decision    →  plan    →  report    →  evaluation    →  retrospective
-决策           计划       报告         评估              回顾
-```
-
 ## 文件夹
 
 按项目分类，每个子文件夹对应一个项目：
@@ -20,3 +13,15 @@ decision    →  plan    →  report    →  evaluation    →  retrospective
 
 - 格式：`YYYY-MM-DD.md`
 - 一天一个日志文件
+
+## 日志格式
+
+每个日志文件包含以下部分：
+
+- **背景**：任务背景和上下文
+- **【决策】**：任务标题
+- **决策**：明确目标和验收标准
+- **计划**：执行步骤
+- **报告**：执行结果
+- **评估**：3E 框架评估（Effectiveness 效果、Efficiency 效率、Experience 体验）
+- **复盘**：问题根因、改进措施、经验总结
