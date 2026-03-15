@@ -9,20 +9,14 @@ decision    →  plan    →  report    →  evaluation    →  retrospective
 决策           计划       报告         评估              回顾
 ```
 
-## 目录结构
+## 文件夹
 
-```
-date_domain
-如：2026-03-15_docs 表示 2026-03-15 日的「文档」领域工作日志
-```
+按项目分类，每个子文件夹对应一个项目：
 
-## 命名规则
+- `thera/` - thera 平台
+- `qtadmin/` - qtadmin 项目
 
-- 格式：`YYYY-MM-DD_领域名`
-- 一天可能有多个不同领域的工作日志
-- 领域名使用英文单数形式
+## 文件命名规则
 
-## 模块
-
-- `thera` - thera 平台编程日志
-- `qtadmin` - qtadmin 项目编程日志
+- 格式：`YYYY-MM-DD.md`
+- 一天一个日志文件
