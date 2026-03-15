@@ -24,4 +24,5 @@ date_domain
 
 ## 模块
 
+- `thera` - thera 平台编程日志
 - `qtadmin` - qtadmin 项目编程日志
