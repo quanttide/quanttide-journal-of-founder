@@ -12,8 +12,15 @@ decision    →  plan    →  report    →  evaluation    →  retrospective
 ## 目录结构
 
 ```
-project - module - journal file
+date_domain
+如：2026-03-15_docs 表示 2026-03-15 日的「文档」领域工作日志
 ```
+
+## 命名规则
+
+- 格式：`YYYY-MM-DD_领域名`
+- 一天可能有多个不同领域的工作日志
+- 领域名使用英文单数形式
 
 ## 模块
 
