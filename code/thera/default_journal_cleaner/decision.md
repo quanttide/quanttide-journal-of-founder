@@ -1,1 +1,0 @@
-# Default Journal Cleaner Decision
