@@ -1,2 +1,3 @@
-# quanttide-journal-of-founder
-量潮创始人日志
+# 量潮创始人日志
+
+收创始人领域的日志；各素材按 `<域>/` 分目录，未分类的落 `default/`。
