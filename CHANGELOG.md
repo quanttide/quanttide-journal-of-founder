@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [Unreleased]
+
+### 新增
+
+- 迁入 `data/context/{default,media,work,write}/journal/` 的 11 篇日志（2026-10-13 ~ 2026-10-16），按域与月份分二级目录；`media/` 为新增域目录
+
 ## [1.0.0] - 2026-10-13
 
 ### 新增
