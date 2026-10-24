@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## [Unreleased]
+
+### 变更
+
+- `media/` 域目录更名为 `create/`：`media/2026-10/2026-10-16.md` → `create/2026-10/2026-10-16.md`（纯路径迁移，内容不变）
+
 ## [1.0.1] - 2026-10-24
 
 ### 新增
