@@ -6,6 +6,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ## [Unreleased]
 
+### 新增
+
+- 迁入 `data/context/{default,game,life,product,work}/journal/` 的 10 篇日志（2026-10-20 ~ 2026-10-26），按域与月份分二级目录；`game/`、`product/` 为新增域目录
+
 ### 变更
 
 - `media/` 域目录更名为 `create/`：`media/2026-10/2026-10-16.md` → `create/2026-10/2026-10-16.md`（纯路径迁移，内容不变）
