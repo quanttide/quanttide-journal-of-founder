@@ -10,6 +10,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 - 迁入 `data/context/{fiction,life,work}/journal/` 的 3 篇日志（2026-10-27）；fiction 按既有映射落 `write/`，其余按同名域分二级目录
 - 迁入 `data/context/default/journal/` 的 2 篇日志（2026-10-27、2026-10-28），落 `default/2026-10/`；当天日志留在 context 随后迁
+- `create/2026-10-28.md`：新领域目录，收创作与产品想法，自 context 的 `create/` 领域经 asset maintain 归位（原误作新资产，已纠正）
 - 迁入 `data/context/{default,game,life,product,work}/journal/` 的 10 篇日志（2026-10-20 ~ 2026-10-26），按域与月份分二级目录；`game/`、`product/` 为新增域目录
 
 ### 变更
