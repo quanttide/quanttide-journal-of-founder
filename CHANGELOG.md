@@ -4,6 +4,8 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+- `create/` → `media/`：域目录改回 media（纯路径迁移，内容不变）
+
 ## [Unreleased]
 
 ### 新增
