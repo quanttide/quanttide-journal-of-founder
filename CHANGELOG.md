@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 - `create/` → `media/`：域目录改回 media（纯路径迁移，内容不变）
 
+- `fiction/2026-11-17.md`：创作片段归位，自 context 迁入（经 quanttide-create 中转后纠正落点）
+
 ## [Unreleased]
 
 ### 新增
